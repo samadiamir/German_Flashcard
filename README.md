@@ -21,11 +21,6 @@ Flashcard/
 │   ├── german_words.csv
 │   └── words_to_learn.csv
 │
-├── images/
-│   ├── card_back.png
-│   ├── card_front.png
-│   ├── right.png
-│   └── wrong.png
 │
 ├── main.py
 ├── requirements.txt
